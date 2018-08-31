@@ -69,7 +69,6 @@
       <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
