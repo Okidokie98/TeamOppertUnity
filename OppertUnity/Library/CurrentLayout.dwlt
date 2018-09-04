@@ -357,11 +357,17 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
     - Assets
+    - Assets/Roof Textures/Materials
+    - Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets
+  - Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs
+  - Assets/Roof Textures/Materials
   m_LastFoldersGridSize: -1
+  m_LastProjectPath: D:\hz\jaar 2\blok 1\code\TeamOppertUnity\OppertUnity
+  m_LastProjectPath: C:\Users\Gert-Jan\Desktop\Unity\TeamOppertUnity\OppertUnity
   m_LastProjectPath: C:\Users\Gebruiker\Documents\School\Jaar 2\Team OppertUNITY\TeamOppertUnity\OppertUnity
   m_LockTracker:
     m_IsLocked: 0
@@ -385,7 +391,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -425,7 +431,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: 
+    m_ExpandedInstanceIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -608,9 +614,9 @@ MonoBehaviour:
     speed: 2
     m_Value: 944.79254
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_ShowGlobalGrid: 1
   m_LastSceneViewRotation: {x: -0.047127742, y: -0.52664286, z: 0.029258773, w: -0.8482749}
   m_LastSceneViewOrtho: 0
@@ -662,10 +668,10 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1

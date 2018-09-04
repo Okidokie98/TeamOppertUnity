@@ -1,3 +1,8 @@
 Base path: C:/Program Files/Unity/Editor/Data
 Cmd: initializeCompiler
+<<<<<<< HEAD
+=======
+Cmd: preprocess
+  insize=2820 outsize=1801 ok=1
+>>>>>>> refs/remotes/origin/feature-assets
 Cmd: initializeCompiler
