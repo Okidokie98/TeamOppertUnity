@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ed5ef5cd4fb5bf946a2f587ff94ef03e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Corki
+  fontNames:
+  - Corki
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1e85f4940606739488caf7032c8abe3a, type: 3}
+  - {fileID: 12800000, guid: 3556c9d732e60f348b976e528bb48b0c, type: 3}
+  - {fileID: 12800000, guid: 024c0149afb68e14db41db8994b6f642, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
